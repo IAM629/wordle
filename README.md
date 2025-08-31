@@ -7,6 +7,8 @@ The assignment is implemented with tasks 1,2 and 3
 The words list is downloaded from:
 https://github.com/darkermango/5-Letter-words
 
+User can add/remove word from 5-letter_words.txt to config the word list
+
 How to run the app:
 1. Install python on your machine.
 2. Install flask, requests and required moudules by "pip install 'moudule_name'"
