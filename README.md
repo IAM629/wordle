@@ -1,5 +1,15 @@
 # wordle
-localhost Wordle
+The assignment is implemented with tasks 1,2 and 3
+ 1. Normal wordle
+ 2. Server/client wordle
+ 3. Host cheating wordle
 
-word list download from:
+The words list is downloaded from:
 https://github.com/darkermango/5-Letter-words
+
+How to run the app:
+1. Install python on your machine.
+2. Install flask, requests and required moudules by "pip install 'moudule_name'"
+3. run server.py on a terminal by "python server.py"
+4. run client.py on other terminal by "python client.py"
+5. play the game
