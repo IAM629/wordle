@@ -130,7 +130,8 @@ class WordleGame:
             return
     
         if "error" in data:
-            self.show_message(data["                                                      "])
+            #self.show_message(data["                                                      "])
+            self.show_message(data)
             return
     
         feedback = data["feedback"]
