@@ -11,6 +11,6 @@ How to run the app:
 1. Install python on your machine.
 2. Install flask, requests and required moudules by "pip install 'moudule_name'"
 3. run absurdle_server.py on a terminal by "python server.py"
-4. run client.py on other terminal by "python client.py"
+4. run client.py on other terminal by "python client.py". An argument --max_attempts can be inputted to config the times of attempts, default is 6 if no argument inputted.
 5. play the game
 
