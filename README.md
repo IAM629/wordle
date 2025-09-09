@@ -1,5 +1,6 @@
 # wordle
 The absurdle version wordle
+
 reference: https://absurdle.online/
 
 A Server/client wordle
@@ -15,5 +16,6 @@ How to run the app:
 3. Run absurdle_server.py on a terminal by "python server.py"
 4. Run client.py on other terminal by "python client.py". An argument --max_attempts can be added to config the times of attempts, default is 6 if no argument added.
 5. Play the game
+
 
 
